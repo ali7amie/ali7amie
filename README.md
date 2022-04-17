@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 <!-- ![](https://komarev.com/ghpvc/?username=ali7amie) -->
 
-### Welcome to Ali hamie profile 👋
+### Welcome to Ali Hamie profile 👋
 I am an astrophysics graduate with an experience in observational cosmology. This science studies far objects out of our access to quantify broad existential, scientific, and philosophical questions. This requires developing advanced state-of-the-art softwares. You will find here many universe science algorithms used or developed during my research experiences in laboratories or from self-paced work and specialized courses. This includes modeling and simulation, statistics and data analysis, and image processing. I am happy to share what I learn and I am looking forward to relevant collaborations.
