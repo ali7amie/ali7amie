@@ -1,4 +1,4 @@
-<h3><a href="https://www.coursera.org/learn/data-driven-astronomy">Data-driven Astronomy</a> - <strong>The University of Sydney</strong> - <em>Completed with certificate</em></h3>
+<a href="https://www.coursera.org/learn/data-driven-astronomy">Data-driven Astronomy</a> - <strong>The University of Sydney</strong> - <em>Completed with certificate</em><br>
 massive data median stack, advanced cross-matching, querying and creating databases, ML for photometric redshift estimation and galaxies classification<br>
 <br>
 
