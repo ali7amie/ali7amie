@@ -25,7 +25,7 @@ Graph theory and algorithms <br>
     </li>
 
   <li>
-<a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science, AI & Development</a> - <strong>University of California Santa Cruz</strong> - <em>Completed with certificate</em><br>
+<a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science, AI & Development</a> - <strong>IBM</strong> - <em>Completed with certificate</em><br>
 <br>
     </li>
   
