@@ -29,6 +29,10 @@ Fitting models to dependant and independant data
         </li>
       </ul>
     </li> 
+  
+  <li>
+<h3><a href="https://www.coursera.org/learn/mcmc">Bayesian Inference with MCMC</a> - <strong>databricks</strong> :hourglass_flowing_sand:</h3>
+</li>
 
   <li>
 <h3><a href="https://www.coursera.org/specializations/coding-for-everyone">Coding for Everyone: C and C++ Specialization</a> - <strong>University of California Santa Cruz</strong></h3>
