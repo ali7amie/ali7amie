@@ -15,7 +15,7 @@ Monte-Carlo, Lattice Boltzmann, Barnes-Hut galaxy merger simulation<br>
 </li>
 
   <li>
-<h3><a href="https://www.coursera.org/specializations/statistics-with-python">Statistics with Python Specialization (3 courses)</a> - <strong>University of Michigan</strong></h3>
+<h3><a href="https://www.coursera.org/specializations/statistics-with-python">Statistics with Python Specialization</a> - <strong>University of Michigan</strong></h3>
    <ul>
       <li>
         <strong>Course 1: </strong><a href="https://www.coursera.org/learn/understanding-visualization-data?specialization=statistics-with-python">Understanding and Visualizing Data with Python</a>  :white_check_mark:<br>
@@ -34,7 +34,7 @@ Fitting models to dependant and independant data
     </li> 
 
   <li>
-<h3><a href="https://www.coursera.org/specializations/coding-for-everyone">Coding for Everyone: C and C++ Specialization (4 courses)</a> - <strong>University of California Santa Cruz</strong></h3>
+<h3><a href="https://www.coursera.org/specializations/coding-for-everyone">Coding for Everyone: C and C++ Specialization</a> - <strong>University of California Santa Cruz</strong></h3>
   <ul>
       <li>
         <strong>Course 1: </strong><a href="https://www.coursera.org/learn/c-for-everyone?specialization=coding-for-everyone">C for Everyone: Programming Fundamentals</a>  :white_check_mark:<br>
