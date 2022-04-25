@@ -1,31 +1,61 @@
+:white_check_mark: Completed with certificate<br>
+:hourglass_flowing_sand: In progress<br>
 <ul>
   
 <li>
-<a href="https://www.coursera.org/learn/data-driven-astronomy">Data-driven Astronomy</a> - <strong>The University of Sydney</strong> - <em>Completed with certificate</em><br>
+<h3><a href="https://www.coursera.org/learn/data-driven-astronomy">Data-driven Astronomy</a> - <strong>The University of Sydney</strong> :white_check_mark:</h3>
 massive data median stack, advanced cross-matching, querying and creating databases, ML for photometric redshift estimation and galaxies classification<br>
   <br>
 </li>
 
 <li>
-<a href="https://www.coursera.org/learn/modeling-simulation-natural-processes">Simulation and modeling of natural processes</a> - <strong>The University of Geneva</strong> - <em>Completed with certificate</em><br>
+<h3><a href="https://www.coursera.org/learn/modeling-simulation-natural-processes">Simulation and modeling of natural processes</a> - <strong>The University of Geneva</strong> :white_check_mark:</h3>
 Monte-Carlo, Lattice Boltzmann, Barnes-Hut galaxy merger simulation<br>
   <br>
 </li>
 
   <li>
-<a href="https://www.coursera.org/specializations/statistics-with-python">Statistics with Python Specialization (3 courses)</a> - <strong>University of Michigan</strong> - <em>In progress</em><br>
-Data sampling, confidence intervals, hypothesis testing, fitting models <br>
-<br>
+<h3><a href="https://www.coursera.org/specializations/statistics-with-python">Statistics with Python Specialization (3 courses)</a> - <strong>University of Michigan</strong></h3>
+   <ul>
+      <li>
+        <strong>Course 1: </strong><a href="https://www.coursera.org/learn/understanding-visualization-data?specialization=statistics-with-python">Understanding and Visualizing Data with Python</a>  :white_check_mark:<br>
+Data type, data visualization, data sampling
+        </li>
+ <li>
+        <strong>Course 2: </strong><a href="https://www.coursera.org/learn/inferential-statistical-analysis-python?specialization=statistics-with-python">Inferential Statistical Analysis with Python</a>  :white_check_mark:<br>
+Confidence intervals, hypothesis testing
+        </li>
+ <li>
+        <strong>Course 3: </strong><a href="https://www.coursera.org/learn/fitting-statistical-models-data-python?specialization=statistics-with-python">Fitting Statistical Models to Data with Python</a> :hourglass_flowing_sand:<br>
+Fitting models to dependant and independant data
+        </li>
+     <br>
+      </ul>
+    </li> 
+
+  <li>
+<h3><a href="https://www.coursera.org/specializations/coding-for-everyone">Coding for Everyone: C and C++ Specialization (4 courses)</a> - <strong>University of California Santa Cruz</strong></h3>
+  <ul>
+      <li>
+        <strong>Course 1: </strong><a href="https://www.coursera.org/learn/c-for-everyone?specialization=coding-for-everyone">C for Everyone: Programming Fundamentals</a>  :white_check_mark:<br>
+        </li>
+ <li>
+        <strong>Course 2: </strong><a href="https://www.coursera.org/learn/c-structured-programming?specialization=coding-for-everyone">C for Everyone: Structured Programming</a>  :hourglass_flowing_sand: <br>
+        </li>
+<li>
+        <strong>Course 3: </strong><a href="https://www.coursera.org/learn/c-plus-plus-a?specialization=coding-for-everyone">C++ For C Programmers, Part A
+</a> <br>
+        </li>
+ <li>
+        <strong>Course 4: </strong><a href="https://www.coursera.org/learn/c-plus-plus-b?specialization=coding-for-everyone">C++ For C Programmers, Part B
+</a> <br>
+        </li>
+     <br>
+      </ul>
     </li>
 
   <li>
-<a href="https://www.coursera.org/specializations/coding-for-everyone">Coding for Everyone: C and C++ Specialization (4 courses)</a> - <strong>University of California Santa Cruz</strong> - <em>In progress</em><br>
-Graph theory and algorithms <br>
-<br>
-    </li>
-
-  <li>
-<a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science, AI & Development</a> - <strong>IBM</strong> - <em>Completed with certificate</em><br>
+<h3><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science, AI & Development</a> - <strong>IBM</strong> :white_check_mark:</h3>
 <br>
     </li>
   
