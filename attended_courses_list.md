@@ -5,13 +5,11 @@
 <li>
 <h3><a href="https://www.coursera.org/learn/data-driven-astronomy">Data-driven Astronomy</a> - <strong>The University of Sydney</strong> :white_check_mark:</h3>
 massive data median stack, advanced cross-matching, querying and creating databases, ML for photometric redshift estimation and galaxies classification<br>
-  <br>
 </li>
 
 <li>
 <h3><a href="https://www.coursera.org/learn/modeling-simulation-natural-processes">Simulation and modeling of natural processes</a> - <strong>The University of Geneva</strong> :white_check_mark:</h3>
 Monte-Carlo, Lattice Boltzmann, Barnes-Hut galaxy merger simulation<br>
-  <br>
 </li>
 
   <li>
@@ -29,7 +27,6 @@ Confidence intervals, hypothesis testing
         <strong>Course 3: </strong><a href="https://www.coursera.org/learn/fitting-statistical-models-data-python?specialization=statistics-with-python">Fitting Statistical Models to Data with Python</a> :hourglass_flowing_sand:<br>
 Fitting models to dependant and independant data
         </li>
-     <br>
       </ul>
     </li> 
 
@@ -49,8 +46,7 @@ Fitting models to dependant and independant data
  <li>
         <strong>Course 4: </strong><a href="https://www.coursera.org/learn/c-plus-plus-b?specialization=coding-for-everyone">C++ For C Programmers, Part B
 </a> <br>
-        </li>
-     <br>
+    </li>
       </ul>
     </li>
 
