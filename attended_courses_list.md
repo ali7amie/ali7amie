@@ -58,6 +58,11 @@ Fitting models to dependant and independant data
 <h3><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science, AI & Development</a> - <strong>IBM</strong> :white_check_mark:</h3>
 <br>
     </li>
+    <li>
+<h3><a href="https://www.coursera.org/learn/how-to-write-a-scientific-paper">How to Write and Publish a Scientific Paper (Project-Centered Course)
+</a> - <strong>Institut Polytechnique de Paris</strong> :hourglass_flowing_sand:</h3>
+<br>
+    </li>
   
 </ul>  
 
