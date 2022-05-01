@@ -4,7 +4,7 @@
   
 <li>
 <h3><a href="https://www.coursera.org/learn/data-driven-astronomy">Data-driven Astronomy</a> - <strong>The University of Sydney</strong> :white_check_mark:</h3>
-Binapprox algorithm for median stack computation of MWA radio telescope pulsar images  |  K-d tree algorithm to cross-match the  AT20G Bright Source Sample (BSS) radio catalog and the SuperCOSMOS all-sky galaxy optical catalog  |  Querying NASA exoplanets database with SQL  |  Combining SQL and Python to create star cluster database  |  Machine learning decision tree regression algorithm for photometric redshift estimation  |  Machine learning random forest algorithm for galaxies classification (contribution to the galaxy zoo project)<br>
+ :small_blue_diamond: Binapprox algorithm for median stack computation of MWA radio telescope pulsar images  :small_blue_diamond: K-d tree algorithm to cross-match the  AT20G Bright Source Sample (BSS) radio catalog and the SuperCOSMOS all-sky galaxy optical catalog  :small_blue_diamond: Querying NASA exoplanets database with SQL  :small_blue_diamond: Combining SQL and Python to create star cluster database  :small_blue_diamond:  Machine learning decision tree regression algorithm for photometric redshift estimation  :small_blue_diamond: Machine learning random forest algorithm for galaxies classification (contribution to the galaxy zoo project)<br>
 </li>
 
 <li>
