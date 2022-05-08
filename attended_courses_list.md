@@ -5,15 +5,11 @@
 <li>
 <h3><a href="https://www.coursera.org/learn/data-driven-astronomy">Data-driven Astronomy</a> - <strong>The University of Sydney</strong> :white_check_mark:</h3>
  :one: Applying the Binapprox algorithm to compute the median stack of MWA radio telescope pulsar images  :two: K-d tree algorithm to cross-match the  AT20G Bright Source Sample radio catalog and the SuperCOSMOS all-sky galaxy optical catalog  :three: Querying NASA exoplanets database with SQL  :four: Combining SQL and Python to create star cluster database  :five:  Machine learning decision tree regression algorithm for photometric redshift estimation  :six: Machine learning random forest algorithm for galaxies classification (contribution to the galaxy zoo project)<br>
-<!--  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code> -->
+  <!--
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
+<code><img width="10%" src="http://phoebe-project.org/images/dependencies/astropy.png"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
+<code><img width="10%" src="https://google.github.io/sqlcommenter/images/psycopg2-logo.png"></code> -->
 </li>
 
 <li>
