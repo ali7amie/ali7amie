@@ -5,6 +5,7 @@
 <li>
 <h3><a href="https://www.coursera.org/learn/data-driven-astronomy">Data-driven Astronomy</a> - <strong>The University of Sydney</strong> :white_check_mark:</h3>
  :one: Applying the Binapprox algorithm to compute the median stack of MWA radio telescope pulsar images  :two: K-d tree algorithm to cross-match the  AT20G Bright Source Sample radio catalog and the SuperCOSMOS all-sky galaxy optical catalog  :three: Querying NASA exoplanets database with SQL  :four: Combining SQL and Python to create star cluster database  :five:  Machine learning decision tree regression algorithm for photometric redshift estimation  :six: Machine learning random forest algorithm for galaxies classification (contribution to the galaxy zoo project)<br>
+  <hr />
   <!--
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"></code>
 <code><img width="10%" src="http://phoebe-project.org/images/dependencies/astropy.png"></code>
@@ -15,6 +16,7 @@
 <li>
 <h3><a href="https://www.coursera.org/learn/modeling-simulation-natural-processes">Simulation and modeling of natural processes</a> - <strong>The University of Geneva</strong> :white_check_mark:</h3>
 :one:Basics of modeling :two: Monte-Carlo methods :three: Lattice-Boltzmann modeling of fluid flow around a cylinder :four: N-body simulation: modeling galaxy merger with the Barnes-Hut algorithm :five: Discrete events simulation: trafic light modeling :six: Agent based modeling<br>
+  <hr />
 </li>
 
   <li>
@@ -33,10 +35,12 @@
 :one: Linear regression for independant data :two: Logistic regression for independant data
         </li>
       </ul>
+    <hr />
     </li> 
   
   <li>
 <h3><a href="https://www.coursera.org/learn/mcmc">Bayesian Inference with MCMC</a> - <strong>databricks</strong> :hourglass_flowing_sand:</h3>
+    <hr />
 </li>
 
   <li>
@@ -57,11 +61,12 @@
 </a> <br>
     </li>
       </ul>
+    <hr />
     </li>
 
   <li>
 <h3><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai">Python for Data Science, AI & Development</a> - <strong>IBM</strong> :white_check_mark:</h3>
-<br>
+    <hr />
     </li>
     <li>
 <h3><a href="https://www.coursera.org/learn/how-to-write-a-scientific-paper">How to Write and Publish a Scientific Paper (Project-Centered Course)
