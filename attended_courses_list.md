@@ -31,7 +31,7 @@
 :one:Confidence intervals :two: hypothesis testing
         </li>
  <li>
-        <strong>Course 3: </strong><a href="https://www.coursera.org/learn/fitting-statistical-models-data-python?specialization=statistics-with-python">Fitting Statistical Models to Data with Python</a> :hourglass_flowing_sand:<br>
+        <strong>Course 3: </strong><a href="https://www.coursera.org/learn/fitting-statistical-models-data-python?specialization=statistics-with-python">Fitting Statistical Models to Data with Python</a> :white_check_mark:<br>
 :one: Linear regression for independant data :two: Logistic regression for independant data
         </li>
       </ul>
