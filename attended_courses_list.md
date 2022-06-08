@@ -1,7 +1,12 @@
 :white_check_mark: Completed with certificate<br>
 :hourglass_flowing_sand: In progress<br>
 <ul>
+ 
 <hr />  
+   <li>
+<h3><a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> - <strong>Stanford University</strong> :hourglass_flowing_sand:</h3>
+    <hr />
+</li>
 <li>
 <h3><a href="https://www.coursera.org/learn/data-driven-astronomy">Data-driven Astronomy</a> - <strong>The University of Sydney</strong> :white_check_mark:</h3>
  :one: Applying the Binapprox algorithm to compute the median stack of MWA radio telescope pulsar images  :two: K-d tree algorithm to cross-match the  AT20G Bright Source Sample radio catalog and the SuperCOSMOS all-sky galaxy optical catalog  :three: Querying NASA exoplanets database with SQL  :four: Combining SQL and Python to create star cluster database  :five:  Machine learning decision tree regression algorithm for photometric redshift estimation  :six: Machine learning random forest algorithm for galaxies classification (contribution to the galaxy zoo project)<br>
